@@ -1,2 +1,2 @@
 # ProjectCS20
-Project 1 for CS20 using machine learning to try to predict the S&amp;P 500 variation within the next 10 days.
+Project for CS20 using machine learning (more specifically neural networks) to try to predict the S&P 500 variation within the next 10 days.
